@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/CatMonitor/CPipe/main.cpp
+iostream
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+

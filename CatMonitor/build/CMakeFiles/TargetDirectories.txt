@@ -1,0 +1,3 @@
+/home/pi/CatMonitor/CatMonitor/build/CMakeFiles/edit_cache.dir
+/home/pi/CatMonitor/CatMonitor/build/CMakeFiles/rebuild_cache.dir
+/home/pi/CatMonitor/CatMonitor/build/CMakeFiles/cat_monitor.dir
