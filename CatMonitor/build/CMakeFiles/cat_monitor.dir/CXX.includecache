@@ -11,6 +11,10 @@ opencv2/opencv.hpp
 -
 iostream
 -
+fstream
+-
+thread
+-
 sys/time.h
 -
 
